@@ -1,3 +1,6 @@
+## [please download the war file to get the entire project with all required packages and binaries]
+
+
 # hostelroomalloctment
 hostel room allotment based on the room type and no of roomates choosen.
 
